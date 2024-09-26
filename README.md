@@ -23,8 +23,20 @@ To showcase the deployment and configuration of an Elastic Stack SIEM integrated
 ## Steps
 
 ![elasticdashboard](https://github.com/user-attachments/assets/030afae2-0a14-4775-a24a-eaa236acf121)
+
 *Ref 1: Dashboard*
+
+
 ![elasticendpointlogs](https://github.com/user-attachments/assets/f048761d-7bd8-4f88-a24a-9d4b62fd3be4)
+
 *Ref 2: Endpoint Logs*
+
+
 ![elasticrawlogs](https://github.com/user-attachments/assets/d2b1930f-2b04-4b4e-b1f3-eb988ec42749)
+
 *Ref 3: Raw Logs*
+
+
+![Elasticvisualization](https://github.com/user-attachments/assets/af5b3fb6-d633-4016-9af5-e3a42c0ed857)
+
+*Ref 4: Count of Records Visualization*
