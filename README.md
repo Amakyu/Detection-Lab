@@ -21,9 +21,10 @@ To showcase the deployment and configuration of an Elastic Stack SIEM integrated
 - Kibana for designing interactive dashboards and visualizations for real-time security monitoring.
 
 ## Steps
-![elasticdashboard](https://github.com/user-attachments/assets/f4cd98be-d5f6-41b4-993e-ecc39d49271b)
+
+![elasticdashboard](https://github.com/user-attachments/assets/030afae2-0a14-4775-a24a-eaa236acf121)
 *Ref 1: Dashboard*
-![elasticendpointlogs](https://github.com/user-attachments/assets/1d23d5c3-3246-47fe-b1e8-2c579326bb32)
+![elasticendpointlogs](https://github.com/user-attachments/assets/f048761d-7bd8-4f88-a24a-9d4b62fd3be4)
 *Ref 2: Endpoint Logs*
-![elasticrawlogs](https://github.com/user-attachments/assets/1632838a-599c-45b7-8568-06acc802ca49)
+![elasticrawlogs](https://github.com/user-attachments/assets/d2b1930f-2b04-4b4e-b1f3-eb988ec42749)
 *Ref 3: Raw Logs*
